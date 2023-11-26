@@ -1,0 +1,8 @@
+package org.example.HachichaRacem_LSI3_SOA_TP6.entities;
+
+public enum EtatCompte{
+    CREE,
+    ACTIVE,
+    SUSPENDU,
+    BLOQUE
+}
